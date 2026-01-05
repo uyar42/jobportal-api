@@ -61,9 +61,9 @@ Bu yapı sayesinde frontend tarafında response yönetimi kolaylaşır.
 
 ## Job Modülü
 
-- CRUD işlemleri\
-- Admin yetkili create\
-- Filtering, Sorting\
+- CRUD işlemleri
+- Admin yetkili create
+- Filtering, Sorting
 - Pagination
 
 Örnek: GET /api/jobs?page=1&pageSize=10&sortBy=salary&desc=true
